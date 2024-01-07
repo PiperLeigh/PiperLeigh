@@ -1,5 +1,5 @@
 ## Hi there! I'm Piper👋
-(she/her)
+*(she/her)*
 <p>I am currently working inside of a women's prision as a front end coding instructor with the goal of doing my small part to help end recidivism.</p>
 
 - 🌱 I’m currently studying...
