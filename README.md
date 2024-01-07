@@ -1,6 +1,6 @@
 ## Hi there! I'm Piper👋
 *(she/her)*
-<p>I am currently working inside of a women's prision as a front end coding instructor with the goal of doing my small part to help end recidivism.</p>
+<p>I am a front end web development instructor working inside a womens prision, hoping to help my students build more positive futures for themselves. Not having much previous experience with code, , I am committing to daily practice in 2024 to enhance my knowledge and better support their learning journey.</p>
 
 - 🌱 I’m currently studying...
   <ul>
