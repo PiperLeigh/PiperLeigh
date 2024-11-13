@@ -6,8 +6,8 @@
 ### Jobs
 | Company | Role | Years |
 |--|--|--|
-|The Wild Cow | Prep-Cook | 2015-2018
-|Grand Palace Silkscreen | Operations Manager | 2018-2022
+|The Wild Cow | Prep-Cook | 2015-2017
+|Grand Palace Silkscreen | Operations Manager | 2017-2022
 |Persevere | Coding Instructor | 2022-Present
 
 
